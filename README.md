@@ -5,7 +5,7 @@
 
 ## About Me
 
-> I am a dedicated coder and problem solver driven by a passion for building robust technical solutions and continuously refining my craft. Currently a student, I focus on optimizing workflows and developing innovative tools that address real-world challenges. My objective is to persistently expand my skill set and successfully transition into the professional technology market.
+> I am a dedicated coder and problem solver driven by a passion for building robust technical solutions and continuously refining my craft. Currently a senior student, I focus on optimizing workflows and developing innovative tools that address real-world challenges. My objective is to persistently expand my skill set and successfully transition into the professional technology market.
 
 **Always learning. Always building.**
 

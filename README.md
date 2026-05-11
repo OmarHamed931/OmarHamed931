@@ -29,7 +29,7 @@
 ## Top Projects
 - [Viora-API](https://github.com/Viora-Grad/viora-main-backend): Organization Manager and Reservation System SaaS Asp.net core API project using Clean Architecture DDD with CQRS using MediatR
 - [Quizzy](https://github.com/OmarHamed931/OnlineQuizSystem): A modular and scalable quiz management API built with ASP.NET Core and SQL Server. Ideal for learning assessments, backend architecture practice.
-- [LMS](https://github.com/Mazen-Nayef/LMS): Learning Management System API Using Java Spring Boot
+- [LMS](https://github.com/OmarHamed931/LMS): Learning Management System API Using Java Spring Boot
 
 ## Connect with Me
 

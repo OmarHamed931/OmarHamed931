@@ -27,14 +27,6 @@
 
 ---
 
-## GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHamed931&layout=compact&theme=vision-friendly-dark)
-
-![Omar Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarHamed931&show_icons=true&theme=vision-friendly-dark)
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hamed-7177a130a)

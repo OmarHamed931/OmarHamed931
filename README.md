@@ -32,4 +32,5 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hamed-7177a130a)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hamed-7177a130a)<br>
+[![Email](https://img.shields.io/badge/Email-OmarHamed931@outlook.com-blue?logo=microsoftoutlook&logoColor=white)](mailto:OmarHamed931@outlook.com)

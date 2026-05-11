@@ -26,6 +26,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+## Top Projects
+- [Viora-API](https://github.com/Viora-Grad/viora-main-backend): Organization Manager and Reservation System SaaS Asp.net core API project using Clean Architecture DDD with CQRS using MediatR
+- [LMS](https://github.com/Mazen-Nayef/LMS): Learning Management System API Using Java Spring Boot
 
 ## Connect with Me
 
